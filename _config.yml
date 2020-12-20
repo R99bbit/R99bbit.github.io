@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
+title                    : "R99bbit's Technical Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "R99bbit"
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "R99bbit"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Security Researcher ⚔"
+  location         : "Hacking Team ARGOS, Chungnam National Univ."
+  email            : "rjsdid7325@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
