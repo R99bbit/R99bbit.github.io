@@ -8,3 +8,5 @@ main:
     url: /dev/
   - title: "CTF"
     url: /ctf/
+  - title: "CVE"
+    url: /cve/
