@@ -33,7 +33,7 @@ Variable two: 2
 
 - 입력 받은 두 수를 더해준다.
 
-
+---
 
 # `hex-ray`
 
@@ -120,7 +120,7 @@ int __cdecl main(int argc, const char **argv, const char **envp)
 - `untrusted input` 에 대한 제대로 된 검증을 하지 않는다.
 - 따라서 해당 로직에 `command injection` 취약점이 있음을 알 수 있다.
 
-
+---
 
 # `proof of concept`
 
@@ -138,7 +138,7 @@ r99bbit@parkmin-dev:~/ctf$
 - `command injection` 취약점을 증명하기 위한 stdin을 집어 넣어 봤다.
 - `print();1+2;print(0xdeadbeef)` 형태로 코드가 실행되어 코드가 보이는 것을 볼 수 있다.
 
-
+---
 
 # `exploit`
 
@@ -170,3 +170,4 @@ Variable two: 2;print(open("./flag","r").read()
 flag{cL0uD_5Tr4tEgy}
 ```
 
+---
