@@ -1,5 +1,5 @@
 ---
-title: "[2021 HackPack CTF] baby calc writeup"
+title: "[2021 HackPack CTF] Yaml-2-Json writeup"
 categories:
   - CTF
 author_profile: true
